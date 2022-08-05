@@ -1,0 +1,76 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Mouse Memoirs", sans-serif;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	text-align: center;
+	background: url("Purple and Peach Rainbow Waves Desktop Wallpaper.png")
+		no-repeat center center;
+}
+
+.container {
+	width: 500px;
+	height: 450px;
+}
+
+.header {
+	font-size: 1.5rem;
+	border: solid #fff;
+	color: #fff;
+	padding: 5px;
+	margin: 20px auto;
+	width: 80%;
+	border-radius: 8px;
+}
+
+.main-content {
+	background-color: #fff;
+	width: 100%;
+	height: max-content;
+	border: none;
+	border-radius: 8px;
+	padding: 50px 40px;
+	box-shadow: 0 0 10px;
+}
+
+.text-area {
+	font-size: 2rem;
+}
+
+.person {
+	font-size: 1.5rem;
+	text-transform: capitalize;
+	margin: 20px;
+}
+
+a:link {
+	color: pink;
+	text-decoration: none;
+}
+
+a:visited {
+	color: hotpink;
+	text-decoration: none;
+}
+
+#btn {
+	cursor: pointer;
+	background-color: grey;
+	color: #fff;
+	font-size: 1.2rem;
+	padding: 10px 15px;
+	margin: 10px;
+	border: none;
+	border-radius: 8px;
+}
+
+#btn:active {
+	background-color: black;
+}
