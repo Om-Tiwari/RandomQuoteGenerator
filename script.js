@@ -36,8 +36,7 @@ const quotesList = [
 		author: "Michael Jordan",
 	},
 	{
-		quote:
-			"The most difficult thing is the decision to act, the rest is merely tenacity.",
+		quote: "The most difficult thing is the decision to act, the rest is merely tenacity.",
 		author: "Amelia Earhart",
 	},
 	{
@@ -70,8 +69,7 @@ const quotesList = [
 		author: "Charles Swindoll",
 	},
 	{
-		quote:
-			"The most common way people give up their power is by thinking they don’t have any.",
+		quote: "The most common way people give up their power is by thinking they don’t have any.",
 		author: "Alice Walker",
 	},
 	{
@@ -79,8 +77,7 @@ const quotesList = [
 		author: "Buddha",
 	},
 	{
-		quote:
-			"The best time to plant a tree was 20 years ago. The second best time is now.",
+		quote: "The best time to plant a tree was 20 years ago. The second best time is now.",
 		author: "Chinese Proverb",
 	},
 	{
@@ -92,8 +89,7 @@ const quotesList = [
 		author: "Woody Allen",
 	},
 	{
-		quote:
-			"Your time is limited, so don’t waste it living someone else’s life.",
+		quote: "Your time is limited, so don’t waste it living someone else’s life.",
 		author: "Steve Jobs",
 	},
 	{
@@ -101,18 +97,15 @@ const quotesList = [
 		author: "Vince Lombardi",
 	},
 	{
-		quote:
-			"I am not a product of my circumstances. I am a product of my decisions.",
+		quote: "I am not a product of my circumstances. I am a product of my decisions.",
 		author: "Stephen Covey",
 	},
 	{
-		quote:
-			"Every child is an artist.  The problem is how to remain an artist once he grows up.",
+		quote: "Every child is an artist.  The problem is how to remain an artist once he grows up.",
 		author: "Pablo Picasso",
 	},
 	{
-		quote:
-			"You can never cross the ocean until you have the courage to lose sight of the shore.",
+		quote: "You can never cross the ocean until you have the courage to lose sight of the shore.",
 		author: "Christopher Columbus",
 	},
 	{
@@ -157,8 +150,7 @@ const quotesList = [
 		author: "Vincent Van Gogh",
 	},
 	{
-		quote:
-			"There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+		quote: "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
 		author: "Aristotle",
 	},
 	{
@@ -167,13 +159,11 @@ const quotesList = [
 		author: "Jesus",
 	},
 	{
-		quote:
-			"The only person you are destined to become is the person you decide to be.",
+		quote: "The only person you are destined to become is the person you decide to be.",
 		author: "Ralph Waldo Emerson",
 	},
 	{
-		quote:
-			"Go confidently in the direction of your dreams.  Live the life you have imagined.",
+		quote: "Go confidently in the direction of your dreams.  Live the life you have imagined.",
 		author: "Henry David Thoreau",
 	},
 	{
@@ -187,8 +177,7 @@ const quotesList = [
 		author: "Booker T. Washington",
 	},
 	{
-		quote:
-			"Certain things catch your eye, but pursue only those that capture the heart.",
+		quote: "Certain things catch your eye, but pursue only those that capture the heart.",
 		author: " Ancient Indian Proverb",
 	},
 	{
@@ -205,8 +194,7 @@ const quotesList = [
 		author: "Plato",
 	},
 	{
-		quote:
-			"Teach thy tongue to say, “I do not know,” and thous shalt progress.",
+		quote: "Teach thy tongue to say, “I do not know,” and thous shalt progress.",
 		author: "Maimonides",
 	},
 	{
@@ -246,13 +234,11 @@ const quotesList = [
 		author: "Maya Angelou",
 	},
 	{
-		quote:
-			"Happiness is not something readymade.  It comes from your own actions.",
+		quote: "Happiness is not something readymade.  It comes from your own actions.",
 		author: "Dalai Lama",
 	},
 	{
-		quote:
-			"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
+		quote: "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
 		author: "Sheryl Sandberg",
 	},
 	{
@@ -275,8 +261,7 @@ const quotesList = [
 		author: "Marie Curie",
 	},
 	{
-		quote:
-			"Too many of us are not living our dreams because we are living our fears.",
+		quote: "Too many of us are not living our dreams because we are living our fears.",
 		author: "Les Brown",
 	},
 	{
@@ -322,8 +307,7 @@ const quotesList = [
 		author: " Albert Einstein",
 	},
 	{
-		quote:
-			"The person who says it cannot be done should not interrupt the person who is doing it.",
+		quote: "The person who says it cannot be done should not interrupt the person who is doing it.",
 		author: "Chinese Proverb",
 	},
 	{
@@ -343,8 +327,7 @@ const quotesList = [
 		author: "Vincent van Gogh",
 	},
 	{
-		quote:
-			"A truly rich man is one whose children run into his arms when his hands are empty.",
+		quote: "A truly rich man is one whose children run into his arms when his hands are empty.",
 		author: "Unknown",
 	},
 	{
@@ -358,8 +341,7 @@ const quotesList = [
 		author: "Abigail Van Buren",
 	},
 	{
-		quote:
-			"Build your own dreams, or someone else will hire you to build theirs.",
+		quote: "Build your own dreams, or someone else will hire you to build theirs.",
 		author: "Farrah Gray",
 	},
 	{
@@ -372,8 +354,7 @@ const quotesList = [
 		author: "Sir Claus Moser",
 	},
 	{
-		quote:
-			"I have learned over the years that when one’s mind is made up, this diminishes fear.",
+		quote: "I have learned over the years that when one’s mind is made up, this diminishes fear.",
 		author: "Rosa Parks",
 	},
 	{
@@ -386,8 +367,7 @@ const quotesList = [
 		author: "Oprah Winfrey",
 	},
 	{
-		quote:
-			"Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+		quote: "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
 		author: "Dalai Lama",
 	},
 	{
@@ -399,8 +379,7 @@ const quotesList = [
 		author: "Norman Vaughan",
 	},
 	{
-		quote:
-			"Our lives begin to end the day we become silent about things that matter.",
+		quote: "Our lives begin to end the day we become silent about things that matter.",
 		author: "Martin Luther King Jr.",
 	},
 	{
@@ -408,8 +387,7 @@ const quotesList = [
 		author: "Teddy Roosevelt",
 	},
 	{
-		quote:
-			"If you do what you’ve always done, you’ll get what you’ve always gotten.",
+		quote: "If you do what you’ve always done, you’ll get what you’ve always gotten.",
 		author: "Tony Robbins",
 	},
 	{
@@ -422,8 +400,7 @@ const quotesList = [
 		author: "Mae Jemison",
 	},
 	{
-		quote:
-			"You may be disappointed if you fail, but you are doomed if you don’t try.",
+		quote: "You may be disappointed if you fail, but you are doomed if you don’t try.",
 		author: "Beverly Sills",
 	},
 	{
@@ -435,8 +412,7 @@ const quotesList = [
 		author: "Grandma Moses",
 	},
 	{
-		quote:
-			"The question isn’t who is going to let me; it’s who is going to stop me.",
+		quote: "The question isn’t who is going to let me; it’s who is going to stop me.",
 		author: "Ayn Rand",
 	},
 	{
@@ -445,8 +421,7 @@ const quotesList = [
 		author: "Henry Ford",
 	},
 	{
-		quote:
-			"It’s not the years in your life that count. It’s the life in your years.",
+		quote: "It’s not the years in your life that count. It’s the life in your years.",
 		author: "Abraham Lincoln",
 	},
 	{
@@ -454,8 +429,7 @@ const quotesList = [
 		author: "Norman Vincent Peale",
 	},
 	{
-		quote:
-			"Either write something worth reading or do something worth writing.",
+		quote: "Either write something worth reading or do something worth writing.",
 		author: "Benjamin Franklin",
 	},
 	{
@@ -478,6 +452,5 @@ btn.addEventListener("click", function () {
 	let nameUrl = name.replace(" ", "_");
 	let url = "https://en.wikipedia.org/wiki/" + nameUrl;
 	quote.innerText = quotesList[random].quote;
-	author.innerHTML =
-		"<a id='author' href=" + url + " target='_blank'>" + name + "</a>";
+	author.innerHTML = "<a id='author' href=" + url + " target='_blank'>" + name + "</a>";
 });
