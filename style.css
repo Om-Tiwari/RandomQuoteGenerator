@@ -8,16 +8,15 @@
 body {
 	display: flex;
 	justify-content: center;
+	min-width: auto;
 	align-items: center;
-	height: 100vh;
 	text-align: center;
-	background: url("Purple and Peach Rainbow Waves Desktop Wallpaper.png")
-		no-repeat center center;
+	background: url("Purple and Peach Rainbow Waves Desktop Wallpaper.png") no-repeat center center;
 }
 
 .container {
 	width: 500px;
-	height: 450px;
+	margin: 20px;
 }
 
 .header {
@@ -32,8 +31,8 @@ body {
 
 .main-content {
 	background-color: #fff;
-	width: 100%;
-	height: max-content;
+	width: 500px;
+	height: auto;
 	border: none;
 	border-radius: 8px;
 	padding: 50px 40px;
@@ -72,5 +71,5 @@ a:visited {
 }
 
 #btn:active {
-	background-color: black;
+	background-color: #000;
 }
