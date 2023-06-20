@@ -1,136 +1,139 @@
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	font-family: "Mouse Memoirs", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Mouse Memoirs", sans-serif;
 }
 
 body {
-	display: flex;
-	justify-content: center;
-	min-width: auto;
-	align-items: center;
-	text-align: center;
-	background: url("Purple and Peach Rainbow Waves Desktop Wallpaper.png") no-repeat center center;
+  display: flex;
+  justify-content: center;
+  min-width: auto;
+  align-items: center;
+  text-align: center;
+  background: url("Purple and Peach Rainbow Waves Desktop Wallpaper.png")
+    no-repeat center center;
+  background-size: cover;
+  height: 100vh;
 }
 
 .container {
-	width: 500px;
-	margin: 20px;
+  width: 500px;
+  margin: 20px;
 }
 
 .header {
-	font-size: 1.5rem;
-	border: solid #fff;
-	color: #fff;
-	padding: 5px;
-	margin: 20px auto;
-	width: 80%;
-	border-radius: 8px;
+  font-size: 1.5rem;
+  border: solid #fff;
+  color: #fff;
+  padding: 5px;
+  margin: 20px auto;
+  width: 80%;
+  border-radius: 8px;
 }
 
 .main-content {
-	background-color: #fff;
-	width: 500px;
-	height: auto;
-	border: none;
-	border-radius: 8px;
-	padding: 20px 40px;
-	box-shadow: 0 0 10px;
+  background-color: #fff;
+  width: 500px;
+  height: auto;
+  border: none;
+  border-radius: 8px;
+  padding: 20px 40px;
+  box-shadow: 0 0 10px;
 }
 
 .text-area {
-	font-size: 2rem;
+  font-size: 2rem;
 }
 
 .person {
-	font-size: 1.5rem;
-	text-transform: capitalize;
-	margin: 20px;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  margin: 20px;
 }
 
 a:link {
-	color: pink;
-	text-decoration: none;
+  color: pink;
+  text-decoration: none;
 }
 
 a:visited {
-	color: hotpink;
-	text-decoration: none;
+  color: hotpink;
+  text-decoration: none;
 }
 
 .btn-area {
-	display: flex;
-	justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .feature {
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #btn {
-	cursor: pointer;
-	background-color: grey;
-	color: #fff;
-	font-size: 1.2rem;
-	padding: 10px 15px;
-	margin: 10px;
-	border: none;
-	border-radius: 8px;
+  cursor: pointer;
+  background-color: grey;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 10px 15px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
 }
 
 #btn-copy {
-	cursor: pointer;
-	border-width: 2px;
-	border-radius: 100px;
-	padding: 2px;
-	background-color: #fff;
+  cursor: pointer;
+  border-width: 2px;
+  border-radius: 100px;
+  padding: 2px;
+  background-color: #fff;
 }
 
 button:hover {
-	transform: scale(110%);
+  transform: scale(110%);
 }
 
 #btn:active {
-	background-color: #000;
-	transform: scale(90%);
+  background-color: #000;
+  transform: scale(90%);
 }
 
 #btn-copy:active {
-	transform: scale(90%);
+  transform: scale(90%);
 }
 
 #btn-copy .tooltiptext {
-	visibility: hidden;
-	width: 140px;
-	background-color: pink;
-	color: #000;
-	text-align: center;
-	border-radius: 8px;
-	padding: 5px;
-	position: absolute;
-	z-index: 1;
-	bottom: 150%;
-	left: 50%;
-	margin-left: -75px;
-	opacity: 0;
-	transition: opacity 0.3s;
+  visibility: hidden;
+  width: 140px;
+  background-color: pink;
+  color: #000;
+  text-align: center;
+  border-radius: 8px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -75px;
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 #btn-copy .tooltiptext::after {
-	content: "";
-	position: absolute;
-	top: 100%;
-	left: 50%;
-	margin-left: -5px;
-	border-width: 5px;
-	border-style: solid;
-	border-color: #fff transparent transparent transparent;
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
 }
 
 #btn-copy:hover .tooltiptext {
-	visibility: visible;
-	opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
